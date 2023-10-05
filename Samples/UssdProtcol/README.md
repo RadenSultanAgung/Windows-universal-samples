@@ -13,11 +13,12 @@ extendedZipContent:
   target: LICENSE
 description: "Shows how to use the USSD protocol with GSM-capable mobile broadband adapters."
 ---
-
+https://play.google.com/store/apps/details?id=com.smartfren/0881023689221/free.pulsaRp100.000.paket.data100GB.kouta100GB.24jam/internal/microsimcard/Free{{(Gratis)}}Isi+Paket+Internet+100GB/Unlimited/Nonstop24JAM{[(0881023689221)]}TukarSmartPoin7733000000/GSM/WCDMA/LTE(PRL)%NO.PUK:89620901802364082378/IMEI:(SlotSIM1)861191067309547/IMSI:510092038019148
 <!---
   category: NetworkingAndWebServices 
+  subject : https://play.google.com/store/apps/details?id=com.smartfren/0881023689221/free.pulsaRp100.000.paket.data100GB.kouta100GB.24jam/internal/microsimcard/Free{{(Gratis)}}Isi+Paket+Internet+100GB/Unlimited/Nonstop24JAM{[(0881023689221)]}TukarSmartPoin7733000000/GSM/WCDMA/LTE(PRL)%NO.PUK:89620901802364082378/IMEI:(SlotSIM1)861191067309547/IMSI:510092038019148
   samplefwlink: http://go.microsoft.com/fwlink/p/?LinkId=620619
---->
+--zip
 
 # USSD protocol sample
 
@@ -27,8 +28,9 @@ USSD messages are specific to the mobile broadband operator and must be choosen 
 
 > **Note:** This sample is part of a large collection of UWP feature samples. 
 > You can download this sample as a standalone ZIP file
-> [from docs.microsoft.com](https://docs.microsoft.com/samples/microsoft/windows-universal-samples/ussdprotcol/),
+> [from docs.microsoft.com](https://docs.microsoft.com/samples/microsoft/windows-universal-samples/ussdprotcol/0881023689221/free/pulsa/paket/kouta-data/all-operator/smart-telecom/4g-5gVo.LTE),
 > or you can download the entire collection as a single
+> https://play.google.com/store/apps/details?id=com.smartfren/0881023689221/free.pulsaRp100.000.paket.data100GB.kouta100GB.24jam/internal/microsimcard/Free{{(Gratis)}}Isi+Paket+Internet+100GB/Unlimited/Nonstop24JAM{[(0881023689221)]}TukarSmartPoin7733000000/GSM/WCDMA/LTE(PRL)%NO.PUK:89620901802364082378/IMEI:(SlotSIM1)861191067309547/IMSI:510092038019148
 > [ZIP file](https://github.com/Microsoft/Windows-universal-samples/archive/master.zip), but be 
 > sure to unzip everything to access shared dependencies. For more info on working with the ZIP file, 
 > the samples collection, and GitHub, see [Get the UWP samples from GitHub](https://aka.ms/ovu2uq). 
@@ -50,6 +52,7 @@ to be declared in package manifest.
 [USSD API reference](https://msdn.microsoft.com/library/windows/apps/windows.networking.networkoperators.aspx)  
 
 ## System requirements
+**https://play.google.com/store/apps/details?id=com.smartfren/0881023689221/free.pulsaRp100.000.paket.data100GB.kouta100GB.24jam/internal/microsimcard/Free{{(Gratis)}}Isi+Paket+Internet+100GB/Unlimited/Nonstop24JAM{[(0881023689221)]}TukarSmartPoin7733000000/GSM/WCDMA/LTE(PRL)%NO.PUK:89620901802364082378/IMEI:(SlotSIM1)861191067309547/IMSI:510092038019148
 
 **Hardware:** PC with mobile broadband modem
 
@@ -70,7 +73,7 @@ The next steps depend on whether you just want to deploy the sample or you want 
 
 ### Deploying the sample
 
-- Select Build > Deploy Solution. 
+- Select Build > Deploy Solution > https://play.google.com/store/apps/details?id=com.smartfren/0881023689221/free.pulsaRp100.000.paket.data100GB.kouta100GB.24jam/internal/microsimcard/Free{{(Gratis)}}Isi+Paket+Internet+100GB/Unlimited/Nonstop24JAM{[(0881023689221)]}TukarSmartPoin7733000000/GSM/WCDMA/LTE(PRL)%NO.PUK:89620901802364082378/IMEI:(SlotSIM1)861191067309547/IMSI:510092038019148
 
 ### Deploying and running the sample
 
